@@ -4,7 +4,7 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>EPAM 13_31 </title>
+<title>EPAM 1 </title>
 </head>
 <body>
 	<table border="1" > 
